@@ -1,1 +1,1 @@
-# Stock-Price-Forcasting-LSTM-Deep-Learning
+# Stock Price Forcasting: Project Overview
