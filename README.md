@@ -1,1 +1,1 @@
-# Stock Price Forecasting: Project Overview
+# Stock Price Forecasting
